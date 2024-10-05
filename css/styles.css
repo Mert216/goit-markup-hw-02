@@ -18,7 +18,7 @@ body {
   color: #4d5ae5;
 }
 
-.logo{
+.logo {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -38,13 +38,15 @@ body {
     font-family: "Raleway", sans-serif;
   }
 
-  .page-list{
+  .page-list {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
   }
+
+  .page-ul-nav{}
 
   .page-list:hover {
     color: #404BBF;
